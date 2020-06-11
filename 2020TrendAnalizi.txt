@@ -1,0 +1,21 @@
+Yapay zekâ
+blockchain
+dijital para
+Okul öncesi ve erken yaşlarda yazılım eğitimi
+“Cloud-native”
+“Serverless”
+Kod depoları, CI/CD
+“Dijital dönüşüm”
+“Nesnelerin İnterneti” de (IoT)
+“Embedded”
+“Event” ve
+“Data-streaming”
+Dağıtık ve güvenilir uygulama modelleri
+Python, ML.NET, Tensorflow
+Javascript, .NET Core ve Go
+.NET Core
+Go(lang)
+WebAssembly(WASM)
+“yapay zekâ kışı”
+Micro Frontend
+Secrets as a Service’ın
