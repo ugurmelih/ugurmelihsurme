@@ -18,4 +18,4 @@ Go(lang)
 WebAssembly(WASM)
 “yapay zekâ kışı”
 Micro Frontend
-Secrets as a Service’ın
+Secrets as a Service
