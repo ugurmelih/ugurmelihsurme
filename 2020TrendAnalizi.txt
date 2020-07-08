@@ -19,3 +19,21 @@ WebAssembly(WASM)
 “yapay zekâ kışı”
 Micro Frontend
 Secrets as a Service
+
+https://www.simplilearn.com/top-technology-trends-and-jobs-article
+Edge Computing
+
+
+https://www2.deloitte.com/us/en/insights/focus/tech-trends/2020/executive-summary.html
+ascent of digital experience
+analytics
+cloud
+digital reality
+cognitive
+blockchain
+the business of IT
+risk
+core modernization
+
+https://www2.deloitte.com/us/en/insights/focus/tech-trends/2020/executive-summary.html
+Digital twins: Bridging the physical and digital 
